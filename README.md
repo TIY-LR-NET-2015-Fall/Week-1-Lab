@@ -31,7 +31,7 @@ After completing this assignment, you be able to effectively use
 * A gist containing at least:
   * `planet_express_logs.csv`
   * `program.cs`
-  * A Class "Delivery", with will hold the data in the CSV file 
+  * A class called "Delivery", which will hold the data in the CSV file that you load.
 
 ### Requirements
 
