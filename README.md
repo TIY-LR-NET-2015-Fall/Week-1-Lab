@@ -1,4 +1,4 @@
-#Week 1 Project -Data
+#Week 1 Lab
 
 ## Description
 
